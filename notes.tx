@@ -1,0 +1,6 @@
+1. Silence yang info-exhibition
+2. PrometheusOutOfOrderTimestamps, silenced
+3. Berapa kali pod nya ke restart.
+4. Ubah ke pod label bisa ga ?
+
+curl -X POST "https://api.telegram.org/bot<token>/sendMessage" -d "chat_id=-1002199003399" -d "message_thread_id=1" -d "text=Testing"
