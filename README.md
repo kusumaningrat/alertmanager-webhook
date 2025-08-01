@@ -67,6 +67,4 @@ Example to test
 
 Example to test
 ===============
-	![Testing](testing/result.png
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-)
+![Testing](testing/result.png)
